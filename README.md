@@ -1,12 +1,19 @@
 # Rishi Shah
 
-📱 +91-9423224889 · 📧 [rishishah781@gmail.com](mailto:rishishah781@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/rishis26) · 🐙 [GitHub](https://github.com/rishis26) · 🌐 [Portfolio](https://rishis26.netlify.app)
+📱 +91-9423224889 · 📧 [rishishah781@gmail.com](mailto:rishishah781@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/rishis26) · 🐙 [GitHub](https://github.com/rishis26) · 🌐 [Portfolio](https://rishis26.tech)
 
 ---
 
-## 👤 Professional Summary
+## 🎓 Education
 
-Computer Science undergraduate specializing in **Cybersecurity and Digital Forensics** with strong foundations in Data Structures and Algorithms. Proficient in full-stack development leveraging **React, Next.js, Node.js, and Express** alongside mobile development via **React Native**. Demonstrated expertise through projects encompassing real-time communication systems, browser security tools, cloud infrastructure, and DevOps automation.
+**VIT Bhopal University** · Bhopal, Madhya Pradesh
+B.Tech, Computer Science and Engineering (Cybersecurity and Digital Forensics) · _Aug 2023 – May 2027_
+
+**Shree Shantiniketan English School** · Latur, Maharashtra
+Class 11–12, CBSE, Grade: A · _Apr 2021 – Mar 2023_
+
+**Podar International School** · Latur, Maharashtra
+Class 9–10, CBSE, Grade: A · _Apr 2019 – Mar 2021_
 
 ---
 
@@ -22,13 +29,14 @@ Computer Science undergraduate specializing in **Cybersecurity and Digital Foren
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 ### Frontend Developer Intern · _Genxploit, Amsterdam, Netherlands (Remote)_
 
 **Dec 2025 – Present**
 
-- Developed responsive, production-ready interfaces using **React and TypeScript** serving **10K+ users**
+- Architected and developed the complete Genxploit platform end-to-end, covering frontend, backend integration, and deployment pipelines
+- Built responsive, production-ready interfaces using **React and TypeScript** serving **10K+ users**
 - Collaborated cross-functionally with design and backend teams to deliver **5+ user-centric features**
 
 ---
@@ -39,6 +47,23 @@ Computer Science undergraduate specializing in **Cybersecurity and Digital Foren
 
 - Engineered full-stack event management platform using **MERN stack** handling **50+ concurrent bookings**
 - Reduced page load time by **40%** through lazy loading, code splitting, and image optimization
+
+---
+
+### Freelance Web Developer · _Promotr, India (Remote)_
+
+**2025**
+
+- Designed and developed [promotr.co.in](https://promotr.co.in), delivering a fully functional web presence for the client
+
+---
+
+### Freelance Web Developer · _Ahilyadevi Holkar Kanya Vidyalay, Basmath, Maharashtra (Remote)_
+
+**Sep 2024 – Oct 2024**
+
+- Launched bilingual school website ([ahkvbasmath.in](https://www.ahkvbasmath.in)) serving **500+ students** with automated notice board synced to Google Docs
+- Optimized for low-bandwidth environments reducing load time by **50%** while maintaining full functionality
 
 ---
 
@@ -66,6 +91,15 @@ _April 2025_
 
 ---
 
+### 📣 [Promotr: Marketing Platform](https://promotr.co.in) _(Freelance)_
+
+_2025_
+**Stack:** Next.js, React, Node.js
+
+- Designed and developed a complete marketing platform website delivering a polished and functional web presence
+
+---
+
 ### 🎬 [PopPlay: Movie Discovery Platform](https://github.com/rishis26/popplay)
 
 🌐 [popplay.vercel.app](https://popplay.vercel.app) · _November 2024 – December 2024_
@@ -76,38 +110,7 @@ _April 2025_
 
 ---
 
-### 🏫 [Ahilyadevi Holkar Kanya Vidyalay Website](https://ahkvbasmath.in)
-
-_September 2024 – October 2024_
-**Stack:** Next.js, React, Node.js
-
-- Launched bilingual school website serving **500+ students** with automated notice board synced to Google Docs
-- Optimized for low-bandwidth environments reducing load time by **50%** while maintaining full functionality
-
----
-
-### ✈️ [AeroNav: Real-Time Flight Tracking Application](https://github.com/rishis26/AeroNav)
-
-🌐 [aeronav.netlify.app](https://aeronav.netlify.app) · _June 2024_
-**Stack:** JavaScript, OpenSky API, Leaflet.js
-
-- Built flight tracking web app visualizing **1000+ live aircraft** with sub-second updates via optimized API polling
-
----
-
-## 🎓 Education
-
-### B.Tech in Computer Science — _Cybersecurity & Digital Forensics_
-
-**VIT Bhopal University**, Bhopal, Madhya Pradesh · _Aug 2023 – May 2027_
-
-### Higher Secondary (Class 11–12) — _Science Stream, Maharashtra Board_
-
-**Shree Shantiniketan English School**, Latur, Maharashtra · _Graduated 2023_
-
----
-
-## 🤝 Leadership & Activities
+## 🤝 Leadership & Extracurriculars
 
 **Member, Null VIT Bhopal Student Chapter** _(Cybersecurity Community)_ · _2024 – Present_
 
@@ -124,11 +127,4 @@ _September 2024 – October 2024_
 - 🥇 **Hackbyte 3.0 Champion** — 1st place among 500+ participants at IIITDM Jabalpur _(Apr 2025)_
 - 🏆 **National CyberShield Finalist** — Ranked **Top 15 of 500+ teams** at MANIT Bhopal by MP Police _(Apr 2025)_
 
-**Certifications:**
-
-- Microsoft SC-900 (Security, Compliance & Identity)
-- MERN Full Stack (Ethnus)
-- Computer Networking
-- Blockchain Applications (NPTEL)
-- PowerShell (Security Blue Team)
-- AI & ML Fundamentals
+**Certifications:** Microsoft SC-900 (Security, Compliance & Identity), MERN Full Stack (Ethnus), Computer Networking, Blockchain Applications (NPTEL), PowerShell (Security Blue Team), AI & ML Fundamentals
