@@ -1,6 +1,6 @@
 # Rishi Shah
 
-📱 +91-9423224889 · 📧 [rishishah781@gmail.com](mailto:rishishah781@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/rishis26) · 🐙 [GitHub](https://github.com/rishis26) · 🌐 [Portfolio](https://rishis26.tech)
+📧 [rishishah781@gmail.com](mailto:rishishah781@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/rishis26) · 🐙 [GitHub](https://github.com/rishis26) · 🌐 [Portfolio](https://rishis26.tech)
 
 ---
 
